@@ -1,0 +1,19 @@
+﻿주차,Type,Status,Stakeholders,Last Edited Time,Created By,Created,김찬희,박이안,이승재,채승민,날짜
+9월 13일(수요일) ~ 9월 20일,,,,"September 20, 2023 10:52 PM","이안 ","September 13, 2023 4:41 PM",DB schema 설계하기,"DB 데이터 정의
+OAuth 2.0
+운동 보조 애플리케이션 와이어 프레임
+메인 페이지 구성 해오기?",,"DB 데이터 정의
+OAuth
+운동 보조 애플리케이션 와이어 프레임",
+9월 17일(일요일) ~ 18일(월요일),,,,"September 18, 2023 5:37 PM","이안 ","September 14, 2023 12:13 AM",,"DB 데이터 정의
+프라이빗 repo - github organiztion
+- main, branch, branch push를 해요 pull request —> 리뷰 —> main merge 해요 - 기능 하나씩 만들 때마다 무조건 push",,"DB 데이터 정의
+Github Organiztion Repository 생성
+- 기능 하나씩 만들 때마다 무조건 push",
+9월 21일 ~ 9월 27일(수요일),,,,"September 20, 2023 11:14 PM","이안 ","September 13, 2023 4:42 PM",,사용자,,게시물 with CRUD,
+9월 28일 ~ 10월 4일(수요일) - 추석,,,,"September 20, 2023 11:14 PM","이안 ","September 13, 2023 4:43 PM",,사용자,,게시물 with CRUD,
+10월 5일 ~ 10월 11일(수요일),,,,"September 18, 2023 5:37 PM","이안 ","September 13, 2023 4:47 PM",,,,,
+10월 12일 ~ 10월 18일(수요일),,,,"September 18, 2023 5:37 PM","이안 ","September 13, 2023 4:48 PM",,,,,
+10월 19일 ~ 10월 25일(수요일),,,,"September 18, 2023 5:37 PM","이안 ","September 13, 2023 4:49 PM",,,,,
+10월 26일 ~ 11월 1일(수요일),,,,"September 18, 2023 5:37 PM","이안 ","September 13, 2023 4:49 PM",,,,,
+db,,,,"September 18, 2023 7:39 PM","이안 ","September 18, 2023 7:39 PM",,,,,
